@@ -1,5 +1,5 @@
 ## Computer Animation
-This is a animation of a human like skeleton for a Computer Animation class (COMP 477). It uses OpenGL with multiple tools such as GLUT and glm. Using this program, we create and play stored animations using different method of interpolation for the movement
+This is a animation of a human like skeleton for a Computer Animation class (COMP 477). It uses OpenGL with multiple tools such as GLUT and glm. Using this program, we create and play stored animations. It is mostly used as a mean to show the effect of different interpolation methods on animations.
 
 ### Controls
 * General
