@@ -1,0 +1,233 @@
+﻿  defMesh.cpp
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\defmesh.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\defmesh.cpp(33): warning C4018: '<=': signed/unsigned mismatch
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\defmesh.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\defmesh.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\defmesh.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\defmesh.cpp(160): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\defmesh.cpp(193): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\defmesh.cpp(225): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\defmesh.cpp(253): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\defmesh.cpp(283): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\defmesh.cpp(313): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\defmesh.cpp(314): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\defmesh.cpp(315): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\defmesh.cpp(316): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  glm.cpp
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(187): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(234): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(304): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(305): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(306): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(308): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(309): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(310): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(263): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(264): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(267): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(277): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(286): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(317): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(321): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(329): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(331): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(334): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(342): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(348): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(354): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(390): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(391): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: see declaration of 'strcat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(395): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(449): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(480): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(481): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(500): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(504): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(505): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(506): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(509): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(513): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(515): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(516): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(519): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(523): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(525): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(526): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(529): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(535): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(536): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(539): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(600): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(609): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(616): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(623): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(632): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(648): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(652): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(655): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(658): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(663): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(673): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(678): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(682): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(688): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(701): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(705): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(708): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(713): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(725): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(727): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(729): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(733): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(808): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(809): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(810): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(813): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(1013): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(1169): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(1176): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(1177): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(1227): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(1228): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(1235): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(1237): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(1240): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(1242): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(1245): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(1246): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(1309): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(1318): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(538): note: see declaration of 'strdup'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(1430): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(1793): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(1814): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(1816): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glm.cpp(1818): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+  glMain.cpp
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(284): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(286): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(287): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(288): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(289): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(341): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(350): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(367): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(376): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(408): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(409): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(416): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(417): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(491): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(498): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(537): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(557): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(566): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(590): warning C4018: '<': signed/unsigned mismatch
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(621): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(622): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(625): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(626): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(629): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\glmain.cpp(630): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  quaternion.cpp
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\quaternion.cpp(134): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\quaternion.cpp(135): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\quaternion.cpp(136): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\quaternion.cpp(138): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\quaternion.cpp(139): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\quaternion.cpp(140): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\quaternion.cpp(142): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\quaternion.cpp(143): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\quaternion.cpp(144): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  simpleMath.cpp
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\simplemath.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\simplemath.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\simplemath.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\simplemath.cpp(116): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\simplemath.cpp(117): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\simplemath.cpp(118): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\simplemath.cpp(119): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\simplemath.cpp(120): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\simplemath.cpp(121): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  skeleton.cpp
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\skeleton.cpp(49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\skeleton.cpp(50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\skeleton.cpp(61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\skeleton.cpp(63): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\skeleton.cpp(73): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\skeleton.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\skeleton.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\skeleton.cpp(162): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\skeleton.cpp(163): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\skeleton.cpp(164): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\skeleton.cpp(167): warning C4101: 'tr': unreferenced local variable
+  splitstring.cpp
+  Generating Code...
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\simplemath.cpp(137): warning C4172: returning address of local variable or temporary: p
+c:\users\f_brault\downloads\447-base-h2-v2\447-base-h2-v2\comp477_a1_vs2013\comp477_a1\src\quaternion.cpp(151): warning C4172: returning address of local variable or temporary: mat
+  COMP477_A1.vcxproj -> C:\Users\F_brault\Downloads\447-Base-H2-v2\447-Base-H2-v2\COMP477_A1_VS2013\Debug\COMP477_A1.exe
